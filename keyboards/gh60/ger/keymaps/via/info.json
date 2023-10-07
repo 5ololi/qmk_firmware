@@ -1,6 +1,6 @@
 {
     "name": "GH60 GER",
-    "vendorId": "0xFEED",
+    "vendorId": "FEED",
     "productId": "0x6080",
     "matrix": { "rows": 5, "cols": 14 },
     "layouts": {
